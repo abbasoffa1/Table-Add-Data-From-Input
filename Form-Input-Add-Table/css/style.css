@@ -1,0 +1,8 @@
+body{
+    box-sizing: border-box;
+}
+.btnSil{
+    margin-top: 30px;
+    margin-left: 16px;
+    height: 40px !important;
+}
